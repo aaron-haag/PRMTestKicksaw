@@ -194,11 +194,11 @@
             <actionType>QuickAction</actionType>
             <sortOrder>10</sortOrder>
         </platformActionListItems>
-        <platformActionListItems>
+        <!--platformActionListItems>
             <actionName>SendEmailPRM</actionName>
             <actionType>QuickAction</actionType>
             <sortOrder>11</sortOrder>
-        </platformActionListItems>
+        </platformActionListItems-->
         <platformActionListItems>
             <actionName>Submit</actionName>
             <actionType>StandardButton</actionType>
@@ -304,9 +304,9 @@
         <quickActionListItems>
             <quickActionName>FeedItem.QuestionPost</quickActionName>
         </quickActionListItems>
-        <quickActionListItems>
+        <!--quickActionListItems>
             <quickActionName>SendEmailPRM</quickActionName>
-        </quickActionListItems>
+        </quickActionListItems-->
     </quickActionList>
     <relatedContent>
         <relatedContentItems>

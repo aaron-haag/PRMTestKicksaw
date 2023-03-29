@@ -163,11 +163,11 @@
             <actionType>QuickAction</actionType>
             <sortOrder>3</sortOrder>
         </platformActionListItems>
-        <platformActionListItems>
+        <!--platformActionListItems>
             <actionName>SendEmailPRM</actionName>
             <actionType>QuickAction</actionType>
             <sortOrder>4</sortOrder>
-        </platformActionListItems>
+        </platformActionListItems-->
         <platformActionListItems>
             <actionName>PrintableView</actionName>
             <actionType>StandardButton</actionType>
@@ -244,9 +244,9 @@
         <quickActionListItems>
             <quickActionName>NewTaskPRM</quickActionName>
         </quickActionListItems>
-        <quickActionListItems>
+        <!--quickActionListItems>
             <quickActionName>Send_Email</quickActionName>
-        </quickActionListItems>
+        </quickActionListItems-->
         <quickActionListItems>
             <quickActionName>NewEventPRM</quickActionName>
         </quickActionListItems>
